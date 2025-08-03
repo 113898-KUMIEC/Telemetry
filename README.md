@@ -235,3 +235,4 @@ curl --location 'http://localhost:8080/api/save-consumed-devices'
 ### puede ser mysql/postgres real en donde persistir la data necesaria.
 
 
+
